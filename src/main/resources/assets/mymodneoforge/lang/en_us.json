@@ -1,13 +1,3 @@
 {
-  "itemGroup.mymodneoforge": "Example Mod Tab",
-  "block.mymodneoforge.example_block": "Example Block",
-  "item.mymodneoforge.example_item": "Example Item",
-
-  "mymodneoforge.configuration.title": "MyMOD(NeoForge) Configs",
-  "mymodneoforge.configuration.section.mymodneoforge.common.toml": "MyMOD(NeoForge) Configs",
-  "mymodneoforge.configuration.section.mymodneoforge.common.toml.title": "MyMOD(NeoForge) Configs",
-  "mymodneoforge.configuration.items": "Item List",
-  "mymodneoforge.configuration.logDirtBlock": "Log Dirt Block",
-  "mymodneoforge.configuration.magicNumberIntroduction": "Magic Number Text",
-  "mymodneoforge.configuration.magicNumber": "Magic Number"
+  "item.mymodneoforge.etherium": "Etherium Ingot"
 }

@@ -27,6 +27,6 @@ Roadmap, top to bottom categorised
 
     Ethereal mobs
         - The Ethereal Golem
-        - A hostile mob/Boss  that protects The Etherium mountains
+            - A hostile mob/Boss  that protects The Etherium mountains
         - The Ethereal watcher
-        - A Peaceful mob that would like to trade with you
+            - A Peaceful mob that would like to trade with you
