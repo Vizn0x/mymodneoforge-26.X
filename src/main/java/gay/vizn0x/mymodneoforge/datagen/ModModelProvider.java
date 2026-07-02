@@ -16,6 +16,7 @@ public class ModModelProvider extends ModelProvider {
     @Override
     protected void registerModels(BlockModelGenerators blockmodels, ItemModelGenerators itemModels){
         itemModels.generateFlatItem(ModItems.ETHERIUM.get(), ModelTemplates.FLAT_ITEM);
+        itemModels.generateFlatItem(ModItems.RAW_ETHERIUM.get(), ModelTemplates.FLAT_ITEM);
 
 
     }

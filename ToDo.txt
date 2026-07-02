@@ -2,11 +2,10 @@ adittions my brother wants (and i aproved)
 
 Roadmap, top to bottom categorised
 
-    Etherium
-    Etherium Ore Block
+    Etherium (Done + raw variant)
     Etherium Ore
     Block of Etherium
-    Etherium Colours: white Base With a Purple Hue
+    Etherium Colours: white Base With a Beige Hue
 
     Etherium Armor
         - Etherium boots
@@ -25,7 +24,7 @@ Roadmap, top to bottom categorised
         - Etherium Shovel
         - Etherium Hoe
 
-    Ethereal mobs
+    mobs
         - The Ethereal Golem
             - A hostile mob/Boss  that protects The Etherium mountains
         - The Ethereal watcher

@@ -56,6 +56,7 @@ public class MyMODNeoForge {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.ETHERIUM);
+            event.accept(ModItems.RAW_ETHERIUM);
         }
     }
 
