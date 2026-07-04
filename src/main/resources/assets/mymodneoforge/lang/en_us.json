@@ -1,4 +1,8 @@
 {
   "item.mymodneoforge.etherium": "Etherium Ingot",
-  "item.mymodneoforge.raw_etherium": "Raw Etherium"
+  "item.mymodneoforge.raw_etherium": "Raw Etherium",
+
+  "block.mymodneoforge.etherium_block": "Block of Etherium",
+
+  "creativetab.mymodneoforge.etherium_items": "Etherium Tab",
 }

@@ -1,5 +1,7 @@
 package gay.vizn0x.mymodneoforge;
 
+import gay.vizn0x.mymodneoforge.block.ModBlocks;
+import gay.vizn0x.mymodneoforge.creativemodetab.ModCreativeModeTabs;
 import gay.vizn0x.mymodneoforge.item.ModItems;
 import net.minecraft.world.item.CreativeModeTab;
 import org.slf4j.Logger;
@@ -34,7 +36,10 @@ public class MyMODNeoForge {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
-        ModItems.ITEMS.register(modEventBus);
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in.
         // Note that this is necessary if and only if we want *this* class (MyMODNeoForge) to respond directly to events.
